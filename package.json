@@ -1,0 +1,17 @@
+{
+  "name": "henry-challenge",
+  "version": "1.0.0",
+  "description": "Henry Challenge",
+  "main": "checkpoint.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest --collectCoverage=false --verbose"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.1.0"
+  }
+}
